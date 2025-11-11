@@ -1,0 +1,30 @@
+
+---- New Calorie Log ----
+breakfast: 300.0 kcal
+dinner: 500.0 kcal
+Total: 800.0
+Average: 400.00
+Status: ✅ You are within your daily limit.
+
+---- New Calorie Log ----
+breakfast: 300.0 kcal
+lunch: 500.0 kcal
+supper: 150.0 kcal
+dinner: 500.0 kcal
+Total: 1450.0
+Average: 362.50
+Status: ⚠️ You have crossed your daily limit!
+
+---- New Calorie Log ----
+breakfast: 400.0 kcal
+lunch: 700.0 kcal
+dinner: 500.0 kcal
+Total: 1600.0
+Average: 533.33
+Status: ⚠️ You have crossed your daily limit!
+
+---- New Calorie Log ----
+lunch: 500.0 kcal
+Total: 500.0
+Average: 500.00
+Status: ✅ You are within your daily limit.
